@@ -1,10 +1,10 @@
-# Library-Management-System
-A Library Management System built in C++ using OOP principles. Supports role-based actions for Students, Faculty, and Librarians including borrowing, returning, fine handling, and book/user management with persistent storage via file handling.
+# Academic Resource Tracker
+A Academic Resource Tracker built in C++ using OOP principles. Supports role-based actions for Students, Faculty, and Librarians including borrowing, returning, fine handling, and book/user management with persistent storage via file handling.
 
-Library Management System (LMS) in C++: 
+Academic Resource Tracker in C++: 
 
 Overview:
-This project implements a Library Management System in C++ and demonstrates key Object-Oriented Programming (OOP) concepts including abstraction, inheritance, polymorphism, and encapsulation. The system supports multiple user roles – Librarian, Student, and Professor – and persists data using CSV files. It includes features such as book borrowing, returning, fine calculation, reservation of unavailable books, and role-based management of users and book records.
+This project implements a Academic Resource Tracker in C++ and demonstrates key Object-Oriented Programming (OOP) concepts including abstraction, inheritance, polymorphism, and encapsulation. The system supports multiple user roles – Librarian, Student, and Professor – and persists data using CSV files. It includes features such as book borrowing, returning, fine calculation, reservation of unavailable books, and role-based management of users and book records.
 
 Features and Functionality
 User Roles and Permissions:
@@ -100,7 +100,7 @@ Display a menu based on the logged-in user’s role, allowing operations such as
 
 Summary:
 
-This Library Management System meets the assignment requirements by:
+This Academic Resource Tracker meets the assignment requirements by:
 
 Demonstrating key OOP concepts (abstraction, inheritance, polymorphism, encapsulation).
 Providing role-based functionality for different user types.
